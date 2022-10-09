@@ -16,10 +16,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 
 
-
-
-// using for loop
-
 class demo{
 public static void main(String[] args) throws IOException {
 	// TODO Auto-generated method stub
